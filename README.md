@@ -224,7 +224,6 @@ CampusConnect uses PostgreSQL with a normalized relational schema.
 - notification history
 - leaderboard-ready aggregate stats
 
-Full schema:file:///C:/Users/Diksha/Documents/Codex/2026-04-26-build-a-complete-production-ready-full/backend/sql/schema.sql
 
 ## API Overview
 
@@ -319,7 +318,7 @@ Expected local URLs:
 
 ### Backend `.env`
 
-Example file: [backend/.env.example](backend/.env.example)
+[backend-.pdf](https://github.com/user-attachments/files/27098114/backend-.pdf)
 
 Important keys:
 
@@ -341,8 +340,8 @@ Important keys:
 - `EMAIL_FROM`
 
 ### Frontend `.env`
+[frontend-.pdf](https://github.com/user-attachments/files/27098120/frontend-.pdf)
 
-Example file: [frontend/.env.example](frontend/.env.example)
 
 Important key:
 
@@ -401,13 +400,15 @@ Recommended option:
 ### Demo Link
 
 - Project Demo: 
+https://github.com/user-attachments/assets/99cdf1de-92ed-40d2-a8c3-625d9f24edd1
+
 
 ```md
 ```
 ## Live Demo
 
-- Demo Video: v
-- Source Code: [GitHub Repository](https://github.com/your-username/your-repo-name)
+- Demo Video: https://github.com/user-attachments/assets/99cdf1de-92ed-40d2-a8c3-625d9f24edd1
+- Source Code: 
 ```
 
 
@@ -418,6 +419,13 @@ Recommended option:
 ![Login] <img width="1872" height="1022" alt="image" src="https://github.com/user-attachments/assets/47f390f8-2c44-4808-8e2d-d96212eba68d" />
 
 ![Admin Dashboard]<img width="1787" height="1023" alt="Screenshot 2026-04-26 145611" src="https://github.com/user-attachments/assets/808f2911-a219-42b1-8fc1-788d037a0860" />
+![task]<img width="1796" height="976" alt="image" src="https://github.com/user-attachments/assets/e247582a-51b3-48f6-8926-ee7f29c7063a" />
+<img width="1757" height="1065" alt="image" src="https://github.com/user-attachments/assets/7c451892-883c-4667-8254-11e7d0d79353" />
+![program]<img width="1777" height="872" alt="image" src="https://github.com/user-attachments/assets/53b8ed34-be44-4557-9a37-c06df2995a69" />
+
+
+
+<img width="1192" height="390" alt="image" src="https://github.com/user-attachments/assets/247fa89a-a005-4d18-afeb-7385ec06f9a6" />
 
 ```
 ```
