@@ -400,65 +400,27 @@ Recommended option:
 
 ### Demo Link
 
-- Project Demo: [Watch the CampusConnect Demo](https://your-demo-video-link-here)
-
-### Optional Thumbnail Style Embed
-
-If you upload the video to YouTube, you can use this Markdown snippet in the README:
+- Project Demo: 
 
 ```md
-[![CampusConnect Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 ```
-
-### Suggested Public Submission Section
-
-```md
 ## Live Demo
 
-- Demo Video: [Watch Here](https://your-demo-video-link-here)
+- Demo Video: v
 - Source Code: [GitHub Repository](https://github.com/your-username/your-repo-name)
 ```
 
-## GitHub Demo Checklist
-
-If you are submitting this project on GitHub, it helps to include the following in your repository:
-
-- this README
-- screenshots or a short demo GIF/video
-- database schema
-- API reference
-- deployment notes
-
-Suggested screenshot sections:
-
-- login page
-- admin dashboard
-- program management
-- applicant approval flow
-- task assignment page
-- ambassador dashboard
-- leaderboard page
-
-You can add them later like this:
 
 ```md
+```
 ## Screenshots
 
-![Login](./docs/screenshots/login.png)
-![Admin Dashboard](./docs/screenshots/admin-dashboard.png)
-![Ambassador Dashboard](./docs/screenshots/ambassador-dashboard.png)
+![Login] <img width="1872" height="1022" alt="image" src="https://github.com/user-attachments/assets/47f390f8-2c44-4808-8e2d-d96212eba68d" />
+
+![Admin Dashboard]<img width="1787" height="1023" alt="Screenshot 2026-04-26 145611" src="https://github.com/user-attachments/assets/808f2911-a219-42b1-8fc1-788d037a0860" />
+
 ```
-
-## Deployment Guide
-
-Recommended deployment approach:
-
-- Frontend: Vercel or Netlify
-- Backend: Render, Railway, Fly.io, or VM/Docker deployment
-- Database: Neon, Supabase, Railway Postgres, RDS, or another managed PostgreSQL provider
-- File storage: Cloudinary or S3-compatible object storage
-
-Detailed deployment notes: [docs/deployment.md](docs/deployment.md)
+```
 
 ## Future Improvements
 
@@ -479,12 +441,7 @@ Detailed deployment notes: [docs/deployment.md](docs/deployment.md)
 - File upload support is scaffolded and can run locally or be moved to a hosted media provider.
 - This repository is structured as a strong MVP foundation and can be extended into a production deployment with validation, testing, and infrastructure hardening.
 
-## Additional Documentation
 
-- API reference: [docs/api-reference.md](docs/api-reference.md)
-- Deployment notes: [docs/deployment.md](docs/deployment.md)
-- Database schema: [backend/sql/schema.sql](backend/sql/schema.sql)
-- Seed script: [backend/sql/seed.js](backend/sql/seed.js)
 
 ## Why This Project Stands Out
 
@@ -496,9 +453,6 @@ CampusConnect is more than a CRUD dashboard. It combines:
 - performance analytics
 - gamification mechanics
 - extensible SaaS architecture
-
-That makes it a strong project for:
-
 - GitHub portfolio showcases
 - internship or placement submissions
 - startup MVP demonstrations
