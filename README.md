@@ -19,13 +19,9 @@ CampusConnect is designed as a portfolio-quality project and a practical MVP fou
 - [API Overview](#api-overview)
 - [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
-- [Seed Data and Demo Credentials](#seed-data-and-demo-credentials)
-- [Sample User Flows](#sample-user-flows)
 - [Demo Video](#demo-video)
-- [GitHub Demo Checklist](#github-demo-checklist)
-- [Deployment Guide](#deployment-guide)
 - [Future Improvements](#future-improvements)
-- [Known Notes](#known-notes)
+
 
 ## Problem Statement
 
@@ -408,7 +404,6 @@ https://github.com/user-attachments/assets/99cdf1de-92ed-40d2-a8c3-625d9f24edd1
 ## Live Demo
 
 - Demo Video: https://github.com/user-attachments/assets/99cdf1de-92ed-40d2-a8c3-625d9f24edd1
-- Source Code: 
 ```
 
 
